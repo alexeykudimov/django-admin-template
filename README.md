@@ -6,6 +6,7 @@
     SECRET_KEY=<your secret key>
     DEBUG=<0 or 1>
     ALLOWED_HOSTS=<hosts via space>
+    CSRF_TRUSTED_ORIGINS=<https://*.foo.bar>
 
     DATABASE_NAME=<your db name>
     DATABASE_USER=<your db user>
